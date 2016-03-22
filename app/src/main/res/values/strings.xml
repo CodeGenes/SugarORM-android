@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gene App</string>
+    <string name="title">Title of your task?</string>
+    <string name="task">What is the task?</string>
+</resources>
